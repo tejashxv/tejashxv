@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Tejas (@tejashxv)
+# 👋 Hello, I'm Tejash (@tejashxv)
 
 ## 🚀 About Me  
 🎯 Passionate about **Web Development**, **Backend Engineering**, and **Data Science**.  
@@ -23,8 +23,7 @@
 ---
 
 ## 📫 Connect with Me
-- 💌 Email: *[Your Email Here]*  
-- 🌐 Portfolio: *[Link if available]*  
+- 💌 Email: thisistejashh@gmail.com  
 - 🧑‍💻 GitHub: [@tejashxv](https://github.com/tejashxv)
 
 ---
